@@ -1,8 +1,8 @@
 
 import './App.css'
 import { Routes, Route } from 'react-router'
-import HomePage from './pages/HomePage'
-import CheckOutPage from './pages/CheckOutPage'
+import {HomePage} from './pages/HomePage'
+import {CheckOutPage} from './pages/CheckOutPage'
 function App() {
 
 

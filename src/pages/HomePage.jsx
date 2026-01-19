@@ -1,6 +1,6 @@
 import './HomePage.css'
 import './header.css'
-export default function HomePage() {
+export function HomePage() {
     return (
         <>
             <div className="header">
